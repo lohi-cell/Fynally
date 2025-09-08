@@ -5,21 +5,14 @@ Fynally is a modern web application designed to help students navigate their lea
 ## Features
 
 - **Home Page**: Welcome screen with navigation to all major sections.
-- **Get Started Page**: Introduction and onboarding for new users.
 - **Student Page**: Student dashboard and resources.
 - **Learning Page**: Access to learning materials and progress tracking.
 - **Internships Page**: Browse available internships.
-- **Internship Details Page**: Detailed information about each internship.
 - **Employment Page**: Employment resources and job listings.
 - **Take Assessment Page**: Assessments to test skills and readiness.
-- **Demo Page**: Demo walkthrough of the platform.
-- **Journey Visualization**: Visualize your learning and career journey.
-- **Navigation Component**: Easy navigation across all pages.
 - **Theme Support**: Light/dark mode toggle.
 
 ## Screenshots
-
-> Add screenshots here. Example:
 
 ![Home Page](screenshots/homepage.png)
 ![Internships Page](screenshots/internships.png)
