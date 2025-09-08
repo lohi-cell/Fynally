@@ -14,9 +14,11 @@ Fynally is a modern web application designed to help students navigate their lea
 
 ## Screenshots
 
-![Home Page](screenshots/homepage.png)
-![Internships Page](screenshots/internships.png)
-![Learning Page](screenshots/journey.png)
+![Home Page](https://github.com/lohi-cell/Fynally/blob/main/Screenshot%202025-09-08%20141415.png)
+
+![Internships Page](https://github.com/lohi-cell/Fynally/blob/main/Screenshot%202025-09-08%20141454.png)
+
+![Learning Page](https://github.com/lohi-cell/Fynally/blob/main/Screenshot%202025-09-08%20141510.png)
 
 ## Getting Started
 
